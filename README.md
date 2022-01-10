@@ -8,7 +8,7 @@ Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
 - Crie um repositório no seu github que irá conter o desenvolvimento do seu desafio
 - Faça commits ao longo do seu desenvolvimento, isso nos ajudará a entender sua linha de raciocínio
 - Faça README.md que contenha as informações de setup e a descrição do seu projeto
-- Assim que concluir o seu desafio, nos envie o link do seu repositório contendo o resultado do seu desafio para que possamos testá-lo
+- Assim que concluir o seu desafio, nos envie o link do seu repositório contendo o resultado para que possamos testá-lo
   <br /><br />
 
 ## Desafio
