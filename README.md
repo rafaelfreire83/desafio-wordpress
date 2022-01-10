@@ -1,4 +1,4 @@
-# Desafio Desenvolvedor Wordpress
+# Desafio | Desenvolvedor Wordpress
 
 Desenvolvimento de layout customizado em Wordpress com base no layout fornecido
 <br /><br />
