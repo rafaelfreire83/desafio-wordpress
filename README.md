@@ -20,6 +20,7 @@ Fazer uma página de blog com:
 - Os 3 últimos posts
 - Footer
 - Os posts deverá conter o link para página interna
+<br />
   Obs: Não precisa fazer o campo de busca e nem a seção “What is Lorem Ipsum?”
   <br /><br />
 
